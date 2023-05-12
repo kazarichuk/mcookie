@@ -1,0 +1,34 @@
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    color: #212529;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-content h3 {
+    margin-bottom: 15px;
+  }
+  
+  .footer-content p {
+    margin-bottom: 15px;
+  }
+  
+  .socials {
+    list-style-type: none;
+  }
+  
+  .socials li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding-top: 15px;
+  }
+  

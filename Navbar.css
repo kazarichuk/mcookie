@@ -1,0 +1,25 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #282c34;
+    padding: 1rem;
+  }
+  
+  .Navbar-brand {
+    color: white;
+  }
+  
+  .Navbar-menu {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  .Navbar-menu li {
+    margin-right: 1rem;
+  }
+  
+  .Navbar-menu a {
+    text-decoration: none;
+    color: white;
+  }
