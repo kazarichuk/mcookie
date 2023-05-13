@@ -746,4 +746,34 @@ SEO
 Personalized Learning Platform for Kids 5-15 | Mcookie
 Mcookie is an engaging and personalized learning platform for children aged 5 to 15. Discover our motivation system, customizable heroes, parent-managed shop, and AI chat for a unique educational experience.
 
+_____
+Styles 
+Tailwind CSS
+
+- Main - background: linear-gradient(180deg, #FDB549 -20.75%, #FFD234 115.46%);
+- EFEFEF - Secondary color
+- 262626 – Main black color 
+- 478BF0 – Main Third color
+- FFFFFF – Main color 
+- SF Pro Text for All content 
+
+____
+References 
+
+LearnUpon (https://www.learnupon.com/) 
+Coursera (https://www.coursera.org/)
+LinkedIn Learning (https://www.linkedin.com/learning/)
+
+____
+Information for IA
+
+https://www.nngroup.com/articles/113-design-guidelines-homepage-usability/
+https://designmodo.com/web-design-trends-2023/
+https://www.schoolnow.com/blog/7-ways-to-put-parents-first-when-designing-a-school-website
+https://blog.hubspot.com/marketing/web-design-trends-2017
+https://dev.to/cloudx/the-big-secret-of-react-3if0
+https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11?gi=f4d0d15923b8
+https://www.forbes.com/sites/theyec/2023/02/22/eight-seo-best-practices-to-increase-organic-site-traffic-in-2023/
+https://blog.hubspot.com/marketing/seo
+
 
