@@ -1,0 +1,12 @@
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #fff;
+    animation: fadeIn 2s ease-in-out;
+
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
